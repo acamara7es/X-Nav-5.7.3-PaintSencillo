@@ -8,6 +8,3 @@ Utilizando el elemento canvas, crea un Paint sencillo que pueda pintar en el can
 ## Comentarios y mejoras
 - El pincel se encuentra centrado en el cursor.
 - El tamaño del pincel no puede ser negativo (se restablece a 1).
-
-## Entrega
-Este ejercicio no hace falta entregarlo.
