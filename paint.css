@@ -1,29 +1,32 @@
 input {
-  width: 25px;
-  height: 25px;
+    width: 25px;
+    height: 25px;
 }
-
 #reset_image {
-  width: 150px;
+    margin-left: 30px;
+    width: 120px;
 }
-
+#size_button {
+    margin-left: 20px;
+    width: auto;
+}
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
 #Red {
-  background-color: red;
+    background-color: red;
 }
-
 #Green {
-  background-color: green;
+    background-color: green;
 }
-
 #Blue {
-  background-color: blue;
+    background-color: blue;
 }
-
 #Black {
-  background-color: black;
+    background-color: black;
 }
-
 canvas {
-  border-width: 1;
-  border: solid;
+    border-width: 1px;
+    border: solid;
 }
