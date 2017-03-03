@@ -3,7 +3,7 @@
 Utilizando el elemento canvas, crea un Paint sencillo que pueda pintar en el canvas mientras se mantiene el botón del ratón pulsado en los colores
 
 ## Resultado
-[http://acamara.github.io/X-Nav-5.7.3-PaintSencillo/paint.html](http://acamara7es.github.io/X-Nav-5.7.3-PaintSencillo/paint.html)
+[https://acamara.github.io/X-Nav-5.7.3-PaintSencillo/paint.html](https://acamara7es.github.io/X-Nav-5.7.3-PaintSencillo/paint.html)
 
 ## Comentarios y mejoras
 - El pincel se encuentra centrado en el cursor.
